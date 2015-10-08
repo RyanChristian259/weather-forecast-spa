@@ -1,4 +1,4 @@
-# weather-forecast-spa
+# Weather-Forecast-SPA Angular App
 
 This is a weather applicaiton built with the Angular.js framework. This is strictly a front end project.
 
