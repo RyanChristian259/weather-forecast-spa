@@ -4,6 +4,8 @@ This is a weather applicaiton built with the Angular.js framework. This is stric
 
 See the live demo at [SickPony.io](http://angularweather.sickpony.io "Angular Weather SickPony.io").
 
+API may not show data if the OpenWeather API has had too many requests for the day. 
+
 ****************Note****************
 
 If you want to run the app you may have to start a server.
